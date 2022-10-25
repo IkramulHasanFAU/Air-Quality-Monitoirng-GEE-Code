@@ -1,5 +1,5 @@
 
-var CA = <Import California Shapefile>
+var CA = <Import California Shapefile/draw a polygon in code editor around CA boundaries>
 var O3 = ee.ImageCollection("COPERNICUS/S5P/OFFL/L3_O3")
 var CO = ee.ImageCollection("COPERNICUS/S5P/OFFL/L3_CO");
 Map.addLayer(CA); 
